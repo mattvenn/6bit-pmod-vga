@@ -7,6 +7,6 @@ Used in a few projects
 
 # PCB
 
-![layout](layout.png)
+![schematic](schematic.png)
 
 ![board](board.png)
